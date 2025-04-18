@@ -20,10 +20,10 @@
 - [ebpf](https://github.com/zoidbergwill/awesome-ebpf#readme)
 
 ## 编程语言
-- [C](C)
-- [Python](python)
-- [Bash](bash)
-- [Rust](rust)
+- [C](C.md)
+- [Python](python.md)
+- [Bash](bash.md)
+- [Rust](rust.md)
 
 ## 工具链 & GDB & 开发 & 编译环境
 - [编译器](compiler)
